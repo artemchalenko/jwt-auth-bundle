@@ -1,4 +1,4 @@
-# jwt-auth-bundle
+#  jwt-auth-bundle
 
 JWT Authentication bundle for Symfony
 
